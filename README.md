@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # ForexConvert
-=======
 
 # Forex Converter 💱
 
@@ -49,5 +47,3 @@ This project is part of a training challenge, but contributions are welcome. If 
 ## Authors 👨‍💻
 
 - [@DiegoChevez](https://www.linkedin.com/in/chevez-diego-it/)
-
->>>>>>> develop
