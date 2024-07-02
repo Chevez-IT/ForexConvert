@@ -1,4 +1,3 @@
-# ForexConvert
 
 # Forex Converter 💱
 
