@@ -10,7 +10,7 @@ import java.net.http.HttpResponse;
 
 public class ExchangeRate {
     private static final String API_ENDPOINT = "https://v6.exchangerate-api.com/v6/";
-    private static final String API_KEY = "0ece03d64290c19dbef14c5d";
+    private static final String API_KEY = "YOUR API KEY";
 
     private final HttpClient httpClient;
     private final Gson gson;
